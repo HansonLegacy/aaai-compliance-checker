@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# LaTeX output (but not AuthorKit27 reference PDFs)
+/*.pdf
+/*.aux
+/*.bbl
+/*.blg
+/*.log
+/*.out
+/*.toc
+/*.synctex.gz
+/*.fdb_latexmk
+/*.fls
+
+# Distribution
+*.zip
+*.tar.gz
+
+# Secrets
+.env

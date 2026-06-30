@@ -1,0 +1,16 @@
+{
+  "name": "aaai-compliance-checker",
+  "version": "1.0.0",
+  "description": "AAAI 2027 LaTeX formatting compliance checker — validates papers against AAAI Author Kit requirements for preamble, forbidden packages/commands, title/author format, section structure, figures/tables, citations, PDF-level checks, and submission-mode-specific rules.",
+  "author": "HansonLegacy",
+  "license": "MIT",
+  "repository": "https://github.com/HansonLegacy/aaai-compliance-checker",
+  "keywords": ["aaai", "latex", "academic-writing", "paper-formatting", "compliance"],
+  "skills": [
+    {
+      "name": "aaai-compliance-checker",
+      "path": "SKILL.md",
+      "description": "This skill should be used when the user wants to check AAAI format, verify LaTeX compliance, audit paper formatting, validate AAAI submission, or check if a paper follows AAAI 2027 Author Kit formatting and writing requirements."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Codex CLI skill metadata
+# See: https://developers.openai.com/codex/skills
+name: aaai-compliance-checker
+description: |
+  Checks AAAI 2027 LaTeX paper compliance. Use when the user wants to
+  "check AAAI format", "verify LaTeX compliance", "validate AAAI submission",
+  "audit paper formatting", or submits a paper to AAAI 2027 and needs to
+  ensure compliance with the AAAI Author Kit formatting requirements.
+
+policy:
+  allow_implicit_invocation: true
